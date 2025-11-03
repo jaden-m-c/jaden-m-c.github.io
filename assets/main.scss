@@ -1,0 +1,27 @@
+---
+---
+
+@import "minima";
+
+// Custom site styling
+body {
+  background-color: #fafafa;
+  color: #222;
+  font-family: "Inter", "Helvetica Neue", sans-serif;
+}
+
+a {
+  color: #0057b7;
+}
+
+.site-title {
+  font-weight: 400;
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+
+footer {
+  background: #111;
+  color: white;
+  padding: 1em 0;
+}
