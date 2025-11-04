@@ -3,6 +3,7 @@ layout: post
 title:  "Day in the Life of a Data Analyst Student"
 date:   2025-10-29 22:22:24 -0400
 categories: [personal, college, jekyll]
+
 ---
 
 # 6:30am Wake Up and Get Ready
@@ -34,5 +35,4 @@ Go to marching band rehearsal
 Grab dinner with friends
 
 # 7:30pm to 8:30pm
-Go home
-
+Go home, study and sleep
